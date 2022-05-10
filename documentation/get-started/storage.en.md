@@ -4,8 +4,8 @@ title: Storage Access
 
 # QField Storage Access
 
-Below are OS-specific instructions on how to access manipulate projects as well as
-individual datasets in QField.
+Below are OS-specific instructions on how to access and manipulate projects, as well as
+individual datasets, in QField.
 
 ## Android
 
@@ -70,7 +70,7 @@ system file picker. Upon selecting the datasets, QField will copy those into the
 
 ### Exporting modified projects and datasets
 
-Once users modify imported projects and datasets, QField offer various means through which
+Once users modify imported projects and datasets, QField offers various means through which
 the content can be sent from and exported out of its system-protected files storage:
 
 * by exporting a project folder or an individual dataset;
